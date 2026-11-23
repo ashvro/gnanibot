@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+trafilatura
+langchain-text-splitters
+sentence-transformers
+chromadb
+openai
+python-dotenv
+tenacity
+streamlit
+pytest
+playwright
